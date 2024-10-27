@@ -1,6 +1,10 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Krishna+Mohanty!;" />
 </h1>
+<!--- Adding Header Elements -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/krishna-mohanty-67a9082b0">LinkedIn</a> - 
+</p>
 
 <h3 align="center">A passionate software developer from IND </h3>
 <br/>
@@ -21,7 +25,7 @@ Here are some of the technologies and tools I use:
 - **Tools:** Git, GitHub, Visual Studio Code
 
 
-## 🌟 My Projects
+<!--## 🌟 My Projects
 
 Here are a few projects I've worked on:
 
@@ -33,7 +37,7 @@ Here are a few projects I've worked on:
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=KrishnaMohanty08&show_icons=true&theme=radical)
 
-
+-->
 ## 🎓 GSSoC Badges
 
 ![GSSoC 2023 Badge](https://img.shields.io/badge/GSSoC-2024_Extd-brightgreen)
