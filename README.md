@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on various open-source projects.
 - 🌱 I’m currently learning about advanced web technologies and frameworks.
 - 👯 I’m looking to collaborate on web development and open-source projects.
-- 💬 Ask me about JavaScript, React, and Python.
+- 💬 Ask me about JavaScript, React, and Python ,Java.
 - 📫 How to reach me: [Email](mailto:mohantykrishna57@gmail.com)
 - ⚡ Fun fact: I love to explore new technologies and enjoy coding challenges!
 
@@ -21,7 +21,7 @@
 Here are some of the technologies and tools I use:
 
 - **Languages:** JavaScript, Python, HTML, CSS ,C ,Java 
-- **Frameworks:** React
+- **Frameworks:** Reactjs,Expressjs
 - **Tools:** Git, GitHub, Visual Studio Code
 
 
