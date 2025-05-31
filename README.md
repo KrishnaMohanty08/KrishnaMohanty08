@@ -53,7 +53,10 @@ Here are a few projects I've worked on:
 </div>
 </details>
 <a href="https://gssoc.girlscript.tech/leaderboard?year=%3C2024%20extd%3E&Krishna=KrishnaMohanty08">LeaderBoard Details<a/>
+<h2>📈 Activity Graph:</h2>
 
+![Krishna's Stats](https://github-contribution-stats.vercel.app/api?username=KrishnaMohanty08&range=1y)
+</br>
 ## 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/krishna-mohanty-67a9082b0)
