@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning about advanced web technologies and frameworks.
 - 👯 I’m looking to collaborate on web development and open-source projects.
 - 💬 Ask me about JavaScript, React, and Python ,Java.
-- 📫 How to reach me: [Email](mailto:mohantykrishna57@gmail.com) [whatsapp No](8506020010)
+- 📫 How to reach me: [Email](mailto:mohantykrishna57@gmail.com) or 8506020010
 - ⚡ Fun fact: I love to explore new technologies and enjoy coding challenges!
 
 ## 🛠️ Technologies & Tools
