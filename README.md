@@ -1,64 +1,62 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Krishna+Mohanty!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Krishna+Mohanty!" />
 </h1>
-<!--- Adding Header Elements -->
+
+<h3 align="center">A passionate software developer from India 🇮🇳</h3>
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/krishna-mohanty-67a9082b0">LinkedIn</a> - 
+  <a href="https://www.linkedin.com/in/krishna-mohanty-67a9082b0" target="_blank">🔗 LinkedIn</a>
 </p>
 
-<h3 align="center">A passionate software developer from IND </h3>
-<br/>
+---
 
-- 🔭 I’m currently working on various open-source projects.
-- 🌱 I’m currently learning about advanced web technologies and frameworks.
-- 👯 I’m looking to collaborate on web development and open-source projects.
-- 💬 Ask me about JavaScript, React, and Python ,Java.
-- 📫 How to reach me: [Email](mailto:mohantykrishna57@gmail.com) or 8506020010
-- ⚡ Fun fact: I love to explore new technologies and enjoy coding challenges!
+- 🔭 Currently working on open-source projects.
+- 🌱 Learning advanced web technologies and frameworks.
+- 👯 Looking to collaborate on web development & open-source.
+- 💬 Ask me about JavaScript, React, Python, and Java.
+- 📫 Reach me at: [mohantykrishna57@gmail.com](mailto:mohantykrishna57@gmail.com) or 8506020010
+- ⚡ Fun fact: I love exploring new tech and solving coding challenges!
+
+---
 
 ## 🛠️ Technologies & Tools
 
-Here are some of the technologies and tools I use:
+- 💻 Languages:<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/> <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java"/> 
+- 🌐 Frameworks: <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/> <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
+- 🔧 Tools: <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code"/> 
 
-- **Languages:** JavaScript, Python, HTML, CSS ,C ,Java 
-- **Frameworks:** Reactjs,Expressjs
-- **Tools:** Git, GitHub, Visual Studio Code
+---
 
+## 🎓 GSSoC 2024 Badges
 
-<!--## 🌟 My Projects
+![GSSoC 2024 Badge](https://img.shields.io/badge/GSSoC-2024_Extd-brightgreen)
 
-Here are a few projects I've worked on:
-
-- [Project 1](https://github.com/KrishnaMohanty08/project1) - A brief description of the project.
-- [Project 2](https://github.com/KrishnaMohanty08/project2) - A brief description of the project.
-- [Project 3](https://github.com/KrishnaMohanty08/project3) - A brief description of the project.
-
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=KrishnaMohanty08&show_icons=true&theme=radical)
-
--->
-## 🎓 GSSoC Badges
-![GSSoC 2023 Badge](https://img.shields.io/badge/GSSoC-2024_Extd-brightgreen)
-<details>	
- <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" height="100px" />
-</a>
-</div>
+<details>
+  <summary><b>🪶 GSSoC Badge Gallery</b></summary>
+  <p align="center">
+    <a href="https://gssoc.girlscript.tech/leaderboard">
+      <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" />
+      <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" />
+      <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" />
+      <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" />
+      <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" />
+      <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="100px" />
+    </a>
+  </p>
 </details>
-<a href="https://gssoc.girlscript.tech/leaderboard?year=%3C2024%20extd%3E&Krishna=KrishnaMohanty08">LeaderBoard Details<a/>
-<h2>📈 Activity Graph:</h2>
 
-![Krishna's Stats](https://github-contribution-stats.vercel.app/api?username=KrishnaMohanty08&range=1y)
-</br>
-## 📫 Let's Connect
+<a href="https://gssoc.girlscript.tech/leaderboard?year=2024&name=KrishnaMohanty08">📊 GSSoC Leaderboard Entry</a>
 
-- [LinkedIn](https://www.linkedin.com/in/krishna-mohanty-67a9082b0)
+---
 
-Thank you for visiting my profile! Feel free to reach out to me if you want to collaborate or just chat!
+## 📈 GitHub Activity
+
+![Contribution Graph](https://github-contribution-stats.vercel.app/api?username=KrishnaMohanty08&range=1y)
+
+---
+
+## 📬 Let's Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/krishna-mohanty-67a9082b0)
+
+Thanks for visiting my profile! Feel free to reach out if you'd like to collaborate 🚀
