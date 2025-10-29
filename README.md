@@ -12,8 +12,8 @@
 
 - 🔭 Currently working on open-source projects.
 - 🌱 Learning advanced web technologies and frameworks.
-- 👯 Looking to collaborate on web development & open-source.
-- 💬 Ask me about JavaScript, React, Python, and Java.
+- 👯 Looking to collaborate on web devlopment projects.
+- 💬 Ask me about Nextjs, Python, and Java.
 - 📫 Reach me at: [mohantykrishna57@gmail.com](mailto:mohantykrishna57@gmail.com) or 8506020010
 - ⚡ Fun fact: I love exploring new tech and solving coding challenges!
 
