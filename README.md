@@ -56,6 +56,24 @@
 
 ---
 
+## 📽️ Projects
+
+### Kiit Saathi ([Demo Link](https://www.kiitsaathi.in/))
+
+- Built comprehensive Study Materials and Interview Deadline Tracker modules for KIIT Saathi, offering reliable resources for students.
+- Added key homepage UI components, enhancing usability and overall user experience.
+- Debugged and fixed contact \& feedback forms, resulting in increased successful submissions.
+- Integrated backend and database with optimized APIs and caching, improving platform load speed by approximately 40%.
+
+
+### Arogyam ([Demo Link](https://arogyam-lyart.vercel.app))
+
+- Developed real-time bed availability feature using Firebase Realtime DB and optimized listeners for instant updates.
+- Built a scalable React/Next.js frontend with SSR/ISR and component-level caching, enhancing load speed by nearly 30%.
+- Implemented secure backend workflows leveraging Firebase Authentication, Firestore security rules, and RESTful API integrations.
+
+***
+
 ## 📈 GitHub Activity
 
 ![Contribution Graph](https://github-contribution-stats.vercel.app/api?username=KrishnaMohanty08&range=1y)
