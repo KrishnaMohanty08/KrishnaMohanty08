@@ -79,7 +79,6 @@
 - **Repository**: [https://github.com/KrishnaMohanty08/leet-track](https://github.com/KrishnaMohanty08/leet-track)
 - **Tags**: Next.js, Frontend, Collaborative Project
 
-***
 
 ## 📈 GitHub Activity
 
