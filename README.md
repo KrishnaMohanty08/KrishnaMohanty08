@@ -72,6 +72,8 @@
 - Built a scalable React/Next.js frontend with SSR/ISR and component-level caching, enhancing load speed by nearly 30%.
 - Implemented secure backend workflows leveraging Firebase Authentication, Firestore security rules, and RESTful API integrations.
 
+  
+
 ***
 
 ## 📈 GitHub Activity
