@@ -72,6 +72,13 @@
 - Built a scalable React/Next.js frontend with SSR/ISR and component-level caching, enhancing load speed by nearly 30%.
 - Implemented secure backend workflows leveraging Firebase Authentication, Firestore security rules, and RESTful API integrations.
 
+
+### LeetTrack (USC KIIT) ([Demo Link](https://leet-track.netlify.app/))
+
+- A collaborative front-end project under USC KIIT's leetTrack initiative. Promotes coding streaks and leaderboards with a dynamic UI built using HTML, CSS, and JavaScript.
+- **Repository**: [https://github.com/KrishnaMohanty08/leet-track](https://github.com/KrishnaMohanty08/leet-track)
+- **Tags**: Next.js, Frontend, Collaborative Project
+
 ***
 
 ## 📈 GitHub Activity
