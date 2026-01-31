@@ -10,12 +10,11 @@
 
 ---
 
-- 🔭 Currently working on open-source projects.
+- 🔭 Currently working in KIIT Saathi.
 - 🌱 Learning advanced web technologies and frameworks.
 - 👯 Looking to collaborate on web devlopment projects.
 - 💬 Ask me about MERN Stack and Java.
 - 📫 Reach me at: [mohantykrishna57@gmail.com](mailto:mohantykrishna57@gmail.com) or 8506020010
-- ⚡ Fun fact: I love exploring new tech and solving coding challenges!
 
 ---
 
