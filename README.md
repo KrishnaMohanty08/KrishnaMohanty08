@@ -57,12 +57,11 @@
 
 ## 📽️ Projects
 
-### Kiit Saathi ([Demo Link](https://www.kiitsaathi.in/))
+### Kiit timetable([Demo Link](https://kiit-timetable.vercel.app/)
 
-- Built comprehensive Study Materials and Interview Deadline Tracker modules for KIIT Saathi, offering reliable resources for students.
-- Added key homepage UI components, enhancing usability and overall user experience.
-- Debugged and fixed contact \& feedback forms, resulting in increased successful submissions.
-- Integrated backend and database with optimized APIs and caching, improving platform load speed by approximately 40%.
+  -A modern, full-stack web application view personalized class schedules. 
+  -Features client-side Excel parsing, smart caching (140x faster after first load), multi-department support (CSE/IT/Mech/Civil), comprehensive documentation. 
+  -Data parsed through json , xlsx ,csv and converted unstructerd data to structured for the ease of implementation
 
 
 ### Arogyam ([Demo Link](https://arogyam-lyart.vercel.app))
