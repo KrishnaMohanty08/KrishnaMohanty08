@@ -77,6 +77,17 @@
 - **Repository**: [https://github.com/KrishnaMohanty08/leet-track](https://github.com/KrishnaMohanty08/leet-track)
 - **Tags**: Next.js, Frontend, Collaborative Project
 
+## 📽️ Projects
+
+### *KIIT SAATHI Web Devloper*
+I was actively involved in:
+Developing and maintaining core web features for KIIT Saathi :-</br>
+  -Study Materials  -Time table Saathi  -Home page  -Calender & Events
+Managed database operations including CRUD, indexing, and data integrity
+Integrated Supabase authentication and database APIs with the frontend
+Ensured scalable, secure, and performant backend architectureEnsuring performance, consistency, and usability across different devices
+Through this role, I gained hands-on experience in real-world web development, teamwork, and delivering solutions for a platform used by a large student community.
+
 
 ## 📈 GitHub Activity
 
